@@ -6,7 +6,10 @@ body,
 
 body {
   background-color: hsl(180deg, 25%, 92%);
+  position: relative;
+  height: 1vh;
   margin: 0;
+  
 }
 
 *,
